@@ -4,6 +4,11 @@ Script en Python para descargar la serie histórica diaria del índice Merval de
 
 El símbolo utilizado es `^MERV`.
 
+## Enlaces
+
+- [Perfil de GitHub](https://github.com/berissom)
+- [Repositorio en GitHub](https://github.com/berissom/merval)
+
 ## Requisitos
 
 - Python `3.14` o superior.
@@ -43,7 +48,7 @@ uv --version
 Cloná el repositorio y entrá en su carpeta:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/berissom/merval.git
 cd merval
 ```
 
